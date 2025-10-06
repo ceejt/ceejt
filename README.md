@@ -12,4 +12,8 @@
 
 Creative, resourceful, and determined full-stack developer blending code with creativity. From C and C++ to React and TypeScript, I design and build solutions fueled by passion and curiosity. AFK, you’ll find me behind a camera, on the basketball court, or lost in music and film—always chasing the perfect blend of style and performance, whether in design or the cars I admire (Hint: Mazda 3). Favorite projects: budgetwise & budgetwise landing page.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/cj-tinae)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cj-tinae">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
