@@ -10,7 +10,7 @@
 
 ---
 
-Creative, resourceful, and determined full-stack developer blending code with creativity. From C and C++ to React and TypeScript, I design and build solutions fueled by passion and curiosity. AFK, you’ll find me behind a camera, on the basketball court, or lost in music and film—always chasing the perfect blend of style and performance, whether in design or the cars I admire (Hint: Mazda 3). Favorite projects: budgetwise & budgetwise landing page.
+Creative, resourceful, and determined full-stack developer blending code with creativity. From C and C++ to React and TypeScript, I design and build solutions fueled by passion and curiosity. AFK, you’ll find me behind a camera, catching up on the latest sports news, or lost in music and film—always chasing the perfect blend of style and performance, whether in design or the cars I admire (Hint: Mazda 3). Go BudgetWise! Go myDormy! Go Team LVM
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cj-tinae">
