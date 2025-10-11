@@ -8,6 +8,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
+<p align="center">
+  <img src="YOUR_FULLSTACK_GIF_URL" alt="Aspiring Full-Stack Developer"/>
+</p>
+<p align="center">
+  <img src="YOUR_AIENGINEER_GIF_URL" alt="AI Engineer"/>
+</p>
+
 ---
 
 Creative, resourceful, and determined full-stack developer blending code with creativity. From C and C++ to React and TypeScript, I design and build solutions fueled by passion and curiosity. AFK, you’ll find me behind a camera, catching up on the latest sports news, or lost in music and film. I always chase the perfect blend of style and performance, whether in design or the cars I admire (Hint: Mazda 3). Go BudgetWise! Go myDormy! Go Team LVM!
