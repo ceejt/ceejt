@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_FULLSTACK_GIF_URL" alt="Aspiring Full-Stack Developer"/>
-</p>
-<p align="center">
-  <img src="YOUR_AIENGINEER_GIF_URL" alt="AI Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1B9AF7&random=false&width=380&lines=Aspiring+Full-Stack+Developer" alt="Aspiring Full-Stack Developer Animated"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EA5B7E&random=false&width=380&lines=AI+Engineer" alt="AI Engineer Animated"/>
+</p>
 ---
 
 Creative, resourceful, and determined full-stack developer blending code with creativity. From C and C++ to React and TypeScript, I design and build solutions fueled by passion and curiosity. AFK, you’ll find me behind a camera, catching up on the latest sports news, or lost in music and film. I always chase the perfect blend of style and performance, whether in design or the cars I admire (Hint: Mazda 3). Go BudgetWise! Go myDormy! Go Team LVM!
