@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1B9AF7&random=false&width=380&lines=Aspiring+Full-Stack+Developer" alt="Aspiring Full-Stack Developer Animated"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1B9AF7&random=false&width=500&lines=Aspiring+Full-Stack+Developer" alt="Aspiring Full-Stack Developer Animated"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EA5B7E&random=false&width=380&lines=AI+Engineer" alt="AI Engineer Animated"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EA5B7E&random=false&width=500&lines=AI+Engineer" alt="AI Engineer Animated"/>
 </p>
 
 ---
