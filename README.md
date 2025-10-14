@@ -48,8 +48,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/>
@@ -62,5 +61,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceejt&show_icons=true&locale=en&layout=compact&theme=dark" alt="ceejt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceejt&show_icons=true&locale=en&theme=dark" alt="ceejt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceejt&theme=dark" alt="ceejt" /></p>
