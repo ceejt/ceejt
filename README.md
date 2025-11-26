@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceejt&label=Profile%20views&color=0e75b6&style=flat" alt="ceejt" /> </p>
 
-- 🔭 I'm currently working on **BudgetWise landing page and MVP**
+- 🔭 I'm currently working on **Snippit - Clip Cutter**
 
 - 🌱 I'm currently learning **HTML, CSS, JavaScript, React, Next.js, TypeScript**
 
 - 👨‍💻 Passionate about **clean design and high performance**
 
-- 🎯 Current projects: **BudgetWise, myDormy, Team LVM**
+- 🎯 Current projects: **BudgetWise, Snippit**
 
 - 📸 AFK: **Photography, sports, music & film enthusiast**
 
