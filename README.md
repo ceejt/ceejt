@@ -8,26 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=EA5B7E&random=false&width=500&lines=AI+Engineer" alt="AI Engineer Animated"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceejt&label=Profile%20views&color=0e75b6&style=flat" alt="ceejt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ceejt&label=Profile%20views&color=0e75b6&style=flat" alt="ceejt" /> </p>
+<p align ="center">
+🔭 I'm currently working on Snippit - Clip Cutter <br>
+🌱 I'm currently learning HTML, CSS, JavaScript, React, Next.js, TypeScript <br>
+👨‍💻 Passionate about clean design and high performance <br>
+🎯 Current projects: BudgetWise, Snippit <br>
+📸 AFK: Photography, sports, music & film enthusiast
+</p>
 
-- 🔭 I'm currently working on **Snippit - Clip Cutter**
-
-- 🌱 I'm currently learning **HTML, CSS, JavaScript, React, Next.js, TypeScript**
-
-- 👨‍💻 Passionate about **clean design and high performance**
-
-- 🎯 Current projects: **BudgetWise, Snippit**
-
-- 📸 AFK: **Photography, sports, music & film enthusiast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/cj-tinae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cj-tinae" height="30" width="40" /></a>
 <a href="https://leetcode.com/ceejt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ceejt" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
