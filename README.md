@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ceejt</h1>
+<h1 align="center">Hi, I'm Ceejt!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1B9AF7&random=false&width=500&lines=Aspiring+Full-Stack+Developer" alt="Aspiring Full-Stack Developer Animated"/>
