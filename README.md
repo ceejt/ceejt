@@ -10,11 +10,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ceejt&label=Profile%20views&color=0e75b6&style=flat" alt="ceejt" /> </p>
 <p align ="center">
-🔭 I'm currently working on <b> Snippit </b> <br>
-🌱 I'm currently learning <b> Tailwind and React </b> <br>
-👨‍💻 Passionate about <b> clean design and high performance </b> <br>
-🎯 Current projects: <b> BudgetWise, Snippit </b> <br>
-📸 AFK: Photography, sports, music & film enthusiast
 </p>
 
 <h3 align="center">Connect with me:</h3>
