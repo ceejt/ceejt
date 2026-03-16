@@ -14,6 +14,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://ceejt-portfolio.netlify.app/" target="blank">
+  <img align="center" src="https://ceejt-portfolio.netlify.app/my-favicon/favicon-96x96.png" alt="Portfolio" height="30" width="30" />
+</a>
 <a href="https://www.linkedin.com/in/cj-tinae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cj-tinae" height="30" width="40" /></a>
 <a href="https://leetcode.com/ceejt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ceejt" height="30" width="40" /></a>
 </p>
